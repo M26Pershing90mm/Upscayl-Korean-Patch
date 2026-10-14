@@ -1,4 +1,4 @@
-# Upscayl Korean Patch | Upscayl 2.15.0 한국어 패치
+# Upscayl Korean Patch  Upscayl 2.15.0 한국어 패치
 
 **Upscayl 2.15.0 Korean Language Patch for Windows**
 
