@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.exe
+*.dll
+*.pdb
+*.lnk
+*.zip
+/win-x64/
+/win-arm64/
+/win-x86/
+/publish/
+/galaxy battery report.json
